@@ -123,7 +123,7 @@
   transform: rotateY(-180deg);
 }
 
-@media (max-width: 500px) {
+@media (max-width: 530px) {
   .card {
     width: 300px;
     height: 200px;
