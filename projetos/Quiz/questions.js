@@ -24,11 +24,11 @@ export default [
     ],
   },
   {
-    question: "Qual é a mais chata?",
+    question: "Qual é a louca dos tênis?",
     answers: [
-      { option: "Sophia", correct: false },
-      { option: "Ellen", correct: false },
-      { option: "Carla", correct: true },
+      { option: "Gabriela", correct: false },
+      { option: "Patricia", correct: false },
+      { option: "Geovanna", correct: true },
     ],
   },
   {
