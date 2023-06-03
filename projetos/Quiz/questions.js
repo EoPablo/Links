@@ -24,18 +24,18 @@ export default [
     ],
   },
   {
-    question: "Qual pessoa é pessima?",
+    question: "Qual é a mais chata?",
     answers: [
-      { option: "Raimunda", correct: false },
-      { option: "Joaquina", correct: false },
-      { option: "Amanda", correct: true },
+      { option: "Sophia", correct: false },
+      { option: "Ellen", correct: false },
+      { option: "Carla", correct: true },
     ],
   },
   {
-    question: "Nome de quem desenvolveu o Quiz?",
+    question: "Quem desenvolveu este quiz?",
     answers: [
-      { option: "Augusto", correct: false },
-      { option: "Pedro", correct: false },
+      { option: "Sophia", correct: false },
+      { option: "Laura", correct: false },
       { option: "Pablo", correct: true },
     ],
   },
