@@ -24,7 +24,7 @@ export default [
     ],
   },
   {
-    question: "Qual é a louca dos tênis?",
+    question: "Quem é a louca dos tênis?",
     answers: [
       { option: "Gabriela", correct: false },
       { option: "Patricia", correct: false },
