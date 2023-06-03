@@ -24,11 +24,11 @@ export default [
     ],
   },
   {
-    question: "Quanto é 7 x 7?",
+    question: "Qual pessoa é pessima?",
     answers: [
-      { option: "70", correct: false },
-      { option: "56", correct: false },
-      { option: "49", correct: true },
+      { option: "Raimunda", correct: false },
+      { option: "Joaquina", correct: false },
+      { option: "Amanda", correct: true },
     ],
   },
   {
