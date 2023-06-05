@@ -24,11 +24,11 @@ export default [
     ],
   },
   {
-    question: "Quem é a louca dos tênis?",
+    question: "Quanto é 7 x 7?",
     answers: [
-      { option: "Gabriela", correct: false },
-      { option: "Patricia", correct: false },
-      { option: "Geovanna", correct: true },
+      { option: "35", correct: false },
+      { option: "52", correct: false },
+      { option: "49", correct: true },
     ],
   },
   {
