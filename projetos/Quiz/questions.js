@@ -1,42 +1,66 @@
 export default [
   {
-    question: "Quanto é 1 + 2?",
+    question: "Quanto é 10x2?",
     answers: [
-      { option: "3", correct: true },
-      { option: "2", correct: false },
-      { option: "4", correct: false },
+      { option: "34", correct: false },
+      { option: "20", correct: true },
+      { option: "46", correct: false },
     ],
   },
   {
-    question: "Quanto é 5 x 2?",
+    question: "Quanto é 5 x 9?",
     answers: [
-      { option: "9", correct: false },
-      { option: "10", correct: true },
+      { option: "45", correct: true },
+      { option: "10", correct: false },
       { option: "11", correct: false },
     ],
   },
   {
-    question: "Qual a capital do Brasil?",
+    question: "60x2?",
     answers: [
-      { option: "Buenos Aires", correct: false },
-      { option: "Madrid", correct: false },
-      { option: "Brasília", correct: true },
+      { option: "120", correct: true },
+      { option: "450", correct: false },
+      { option: "129", correct: false },
     ],
   },
   {
-    question: "Quem é a mais chata?",
+    question: "56x12 ?",
     answers: [
-      { option: "Sophia", correct: false },
-      { option: "Luma", correct: false },
-      { option: "Laura", correct: true },
+      { option: "567", correct: false },
+      { option: "672", correct: true },
+      { option: "480", correct: false },
     ],
   },
   {
     question: "Quem desenvolveu este quiz?",
     answers: [
-      { option: "Sophia", correct: false },
-      { option: "Laura", correct: false },
-      { option: "Pablo", correct: true },
+      { option: "luma", correct: false },
+      { option: "laura", correct: true },
+      { option: "gustavo", correct: false },
+    ],
+  },
+  {
+    question: "quem descobriu o brasil?",
+    answers: [
+      { option: "pedro alvares cabral", correct: true },
+      { option: "jesus", correct: false },
+      { option: "Pablo", correct: false },
+    ],
+  },
+  {
+    question: "20x15?",
+    answers: [
+      { option: "140", correct: false },
+      { option: "390", correct: false },
+      { option: "120", correct: true },
+    ],
+  },
+  {
+    question: "900x4?",
+    answers: [
+      { option: "5096", correct: false },
+      { option: "4000", correct: false },
+      { option: "3600", correct: true },
     ],
   },
 ]
