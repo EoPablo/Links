@@ -24,11 +24,11 @@ export default [
     ],
   },
   {
-    question: "Quanto é 7 x 7?",
+    question: "Quem é a mais chata?",
     answers: [
-      { option: "35", correct: false },
-      { option: "52", correct: false },
-      { option: "49", correct: true },
+      { option: "Sophia", correct: false },
+      { option: "Luma", correct: false },
+      { option: "Laura", correct: true },
     ],
   },
   {
