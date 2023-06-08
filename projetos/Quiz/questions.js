@@ -1,10 +1,10 @@
 export default [
   {
-    question: "Quanto é 10x2?",
+    question: "Quanto é 1 + 2?",
     answers: [
-      { option: "34", correct: false },
-      { option: "20", correct: true },
-      { option: "46", correct: false },
+      { option: "2", correct: false },
+      { option: "3", correct: true },
+      { option: "4", correct: false },
     ],
   },
   {
@@ -16,51 +16,27 @@ export default [
     ],
   },
   {
-    question: "60x2?",
+    question: "Qual a capital do Brasil?",
     answers: [
-      { option: "120", correct: true },
-      { option: "450", correct: false },
-      { option: "129", correct: false },
+      { option: "Buenos Aires", correct: false },
+      { option: "Londres", correct: false },
+      { option: "Brasília", correct: true },
     ],
   },
   {
-    question: "56x12 ?",
+    question: "Quanto é 7 x 7?",
     answers: [
-      { option: "567", correct: false },
-      { option: "672", correct: true },
-      { option: "480", correct: false },
+      { option: "56", correct: false },
+      { option: "38", correct: false },
+      { option: "49", correct: true },
     ],
   },
   {
     question: "Quem desenvolveu este quiz?",
     answers: [
-      { option: "luma", correct: false },
-      { option: "laura", correct: true },
-      { option: "gustavo", correct: false },
-    ],
-  },
-  {
-    question: "quem descobriu o brasil?",
-    answers: [
-      { option: "pedro alvares cabral", correct: true },
-      { option: "jesus", correct: false },
-      { option: "Pablo", correct: false },
-    ],
-  },
-  {
-    question: "20x15?",
-    answers: [
-      { option: "140", correct: false },
-      { option: "390", correct: false },
-      { option: "120", correct: true },
-    ],
-  },
-  {
-    question: "900x4?",
-    answers: [
-      { option: "5096", correct: false },
-      { option: "4000", correct: false },
-      { option: "3600", correct: true },
+      { option: "Laura", correct: false },
+      { option: "Pablo", correct: true },
+      { option: "Sophia", correct: false },
     ],
   },
 ]
